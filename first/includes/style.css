@@ -1,0 +1,87 @@
+.circle{
+	height:150px;
+	width:150px;
+	border-radius: 100%;
+	background-color:yellow;
+	position: absolute;
+}
+
+#div1{
+	
+position:absolute;
+
+}
+
+#section1{
+	position:absolute;
+
+}
+
+.h1-time{
+	font-size:45px;
+	font-family: ariel;
+	top:100px;
+	left:340px;	
+	position: absolute;
+	width:400px;
+	z-index: 1000;
+	
+}
+
+.counting{
+	font-size:100px;
+	font-family: ariel;
+	top:130px;
+	left:410px;
+	position: absolute;
+}
+
+
+.profile-pic{
+	height:600px;
+	width:600px;
+	border-radius: 50%;
+	position: absolute;
+	top:500px;
+	left:190px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+.h2-info{
+	font-size:50px;
+	font-family: ariel;
+	font-weight: bold;
+	position: absolute;
+	top:1150px;
+	right:230px;
+}
+
+.h3-info{
+	font-size:45px;
+	font-family: ariel;
+	font-weight: normal;
+	position: absolute;
+	top:1230px;
+	right:230px;
+}
+
+.saveDate{
+	position: absolute;
+	bottom: 50px;
+	right: 180px;
+	font-size: 50px;
+	font-family: ariel;
+	opacity: 0.6;
+}
+
+.cancel{
+	position: absolute;
+	bottom: 50px;
+	left: 180px;
+	font-size: 50px;
+	font-family: ariel;
+	opacity: 0.6;
+}
+
